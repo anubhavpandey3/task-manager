@@ -6,15 +6,15 @@ A full-stack Task Management web application built with **Next.js**, **Firebase 
 
 ## 🔧 Features
 
-- ✅ **User Authentication** (Email + Password)
-- ✅ **Create / Read / Update / Delete (CRUD)** for tasks
-- ✅ **Mark tasks as Completed or Pending**
-- ✅ **Task Categories** (e.g. Personal, Work)
-- ✅ **Due Dates** for reminders
-- ✅ **Search & Filter by title or description** (coming soon)
-- ✅ **Responsive Design** (Mobile + Desktop)
-- ✅ **Real-time updates with Firestore**
-- ✅ **Clean UI with Tailwind CSS**
+-  **User Authentication** (Email + Password)
+-  **Create / Read / Update / Delete (CRUD)** for tasks
+-  **Mark tasks as Completed or Pending**
+-  **Task Categories** (e.g. Personal, Work)
+-  **Due Dates** for reminders
+-  **Search & Filter by title or description**
+-  **Responsive Design** (Mobile + Desktop)
+-  **Real-time updates with Firestore**
+-  **Clean UI with Tailwind CSS**
 
 ## Tech Stack
  Frontend    -  Next.js (App Router) 
