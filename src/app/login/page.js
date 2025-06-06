@@ -74,7 +74,7 @@ export default function LoginPage() {
         </button>
 
         <p className="text-center text-gray-400 mt-6">
-          Don't have an account?{' '}
+          Don&apos;t have an account?{' '} {/* Apostrophe escaped here */}
           <button
             type="button"
             onClick={handleSignUpRedirect}
